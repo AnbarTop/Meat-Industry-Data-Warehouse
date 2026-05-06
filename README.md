@@ -49,14 +49,6 @@ The project was developed as a solution to a company's request to better underst
 4.  **Run the analysis:**
     *   Execute the code chunks in the R Markdown file to reproduce the analysis and generate the reports.
 
-## 📊 Showcase
-
-*(Aquí puedes añadir capturas de pantalla de tus informes o visualizaciones para mostrar el resultado de tu análisis. Por ejemplo, puedes incluir imágenes de los gráficos o tablas que se encuentran en los archivos HTML o PDF generados.)*
-
-**Example:**
-
-![Sales by Product Category](img/sales_by_product.png)
-_This chart shows the sales distribution among the different product categories._
 
 ## 👤 Author
 
