@@ -54,5 +54,5 @@ The project was developed as a solution to a company's request to better underst
 
 **Antonio Barrera Mora**
 
-*   **LinkedIn:** [Antonio Barrera Mora | Anbar Analytics](https://www.linkedin.com/in/anbamo/)]
+*   **LinkedIn:** [[Antonio Barrera Mora | Anbar Analytics](https://www.linkedin.com/in/anbamo/)]
 *   **GitHub:** @AnbarTop
