@@ -52,7 +52,7 @@ The project was developed as a solution to a company's request to better underst
 
 ## 👤 Author
 
-**[Tu Nombre]**
+**Antonio Barrera Mora**
 
-*   **LinkedIn:** [Tu Perfil de LinkedIn]
-*   **GitHub:** @Kamaranis
+*   **LinkedIn:** [[Antonio Barrera Mora](https://www.linkedin.com/in/anbamo/)]
+*   **GitHub:** @AnbarTop
